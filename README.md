@@ -1,9 +1,9 @@
 # Aho-Corasick algorithm
-Реализация алгоритма
+Implementation of the algorithm
 
-Необходимо найти все вхождения образцов в строку.
+The task is to find all occurrences of patterns in a string.
 
-### Пример ввода:
+### Input example:
 abrachkacadabrachka
 
 4
@@ -16,7 +16,7 @@ ab
 
 marazmik
 
-### Вывод:
+### Output:
 2 1 12
 
 1 9
@@ -24,8 +24,3 @@ marazmik
 2 1 12
 
 0
-
-
-
-
-
